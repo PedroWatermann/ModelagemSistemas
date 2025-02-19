@@ -1,0 +1,12 @@
+- BPMN (Business Process Model Notation)
+	- Regra de negócio
+	- Não se atenta se há software ou não
+
+- UML (Unified Modeling Language)
+	- É utilizado quando há um software para a regra de negócio
+
+- Tipos de requisitos
+	- Funcionais (RF)
+		- Funções que há no software, ações
+	- Não funcionais (RNF)
+		- Restrições no funcionamento do software, relacionado ao desempenho e à características para modelar o produto
